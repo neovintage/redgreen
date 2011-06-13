@@ -10,8 +10,7 @@ Gem::Specification.new do |s|
   s.default_executable = %q{rg}
   s.executables = ["rg"]
   s.files = [
-    "README.markdown",
-    "Rakefile",
+    "README",
     "bin/rg",
     "lib/redgreen.rb",
     "lib/redgreen/autotest.rb",
